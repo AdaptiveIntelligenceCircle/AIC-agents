@@ -1,7 +1,14 @@
 # AIC-agents
 IBCS and introspective behavior.
 
-![alt text](AIC-Agents.png)
+<p align="center">
+  <img src="assets/AIC-Agents.png" alt="AIC Logo" width="1024" length = "1024"/>
+</p>
+
+<p align="center">
+  <strong> AIC-Agents </strong><br>
+  Decentralized nodes • Ethical scaling • Planetary readiness
+</p>
 
 ## README.md
 
